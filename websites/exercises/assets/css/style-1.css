@@ -1,0 +1,38 @@
+body { 
+    background-color: lightsalmon;
+}
+
+p{
+    font-size: 21px;
+    color:red;
+}
+
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+}
+
+.title{ 
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+#subtitle{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: blueviolet;
+}
+
+h2{
+    color:darkolivegreen;
+}
+
+h3{
+    color: cyan;
+}
